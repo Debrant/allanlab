@@ -1,4 +1,4 @@
-I"7<p>We are a dynamic research group at the <a href="http://www.physics.leidenuniv.nl">Leiden Institute of Physics</a>. Our aim is to explore and understand <a href="http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html">quantum materials</a>, including strange metals, high-temperature superconductors, and quantum critical electron matter.</p>
+I"8<p>This is a test site for all types of writing, or at least all types that are written by me.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
@@ -51,7 +51,7 @@
 
 <h4 id="i-love-stories-history-and-culture-i-have-been-blessed-with-a-freedom-that-has--allowed-me-to-travel-extensively-wear-many-hats-and-redefine-myself-as-needed-along-the-way">I love stories, history and culture. I have been blessed with a freedom that has  allowed me to travel extensively, wear many hats, and redefine myself as needed along the way.</h4>
 
-<h4 id="i-have-always-been-passionate-about-story-telling-and-exploring-that-craft-is-one-of-the-main-reasons-i-started-this-site-along-the-way-i-decided-it-was-also-a-good-place-to-hold-other-things-of-interest-that-i-am-working-on-i--have-been-using-the-site-to-explore-web-development-and-i-am-currently-using-jekyll-a-ruby-based-blog-aware-static-website-maker-i-will-probably-change-the-styling-several-times-until-i-find-my-own-way-of-doing-things-but-for-the-time-being-i-have-been-hacking-the-jeckyll-theme-mad4jekyll">I have always been passionate about story telling, and exploring that craft is one of the main reasons I started this site. Along the way I decided it was also a good place to hold other things of interest that I am working on. I  have been using the site to explore Web Development, and I am currently using Jekyll, a Ruby based, blog aware, static website maker. I will probably change the styling several times until I find my own way of doing things, but for the time being I have been hacking the Jeckyll theme, <a href="http://madforjekyll.github.io/">MAD4Jekyll</a>.</h4>
+<h4 id="i-have-always-been-passionate-about-story-telling-and-exploring-that-craft-is-one-of-the-main-reasons-i-started-this-site-along-the-way-i-decided-it-was-also-a-good-place-to-hold-other-things-of-interest-that-i-am-working-on-i--have-been-using-the-site-to-explore-web-development-and-i-am-currently-using-jekyll-a-ruby-based-blog-aware-static-website-maker-i-will-probably-change-the-styling-several-times-until-i-find-my-own-way-of-doing-things-but-for-the-time-being-i-have-been-hacking-the-jeckyll-theme-allan-lab">I have always been passionate about story telling, and exploring that craft is one of the main reasons I started this site. Along the way I decided it was also a good place to hold other things of interest that I am working on. I  have been using the site to explore Web Development, and I am currently using Jekyll, a Ruby based, blog aware, static website maker. I will probably change the styling several times until I find my own way of doing things, but for the time being I have been hacking the Jeckyll theme, <a href="http://www.allanlab.org/aboutwebsite.html">Allan Lab</a>.</h4>
 
 <h4 id="i-am-still-figuring-out-the-best-organizational-scheme-for-the-time-being-i-have-settled-in-to-using-tags-and-categories-to-sort-my-writing--you-may-find-random-vignettes-side-projects-poetry-fiction-and-academic-writing-depending-on-where-you-click">I am still figuring out the best organizational scheme, for the time being I have settled in to using tags and categories to sort my writing.  You may find random vignettes, side projects, poetry, fiction and academic writing depending on where you click.</h4>
 
@@ -65,7 +65,7 @@
 <h4 id="as-a-non-traditional-engineer-i-bring-the-insight-gained-through-decades-of-experience-across-multiple-industries-as-a-leader-i-strive-to-inspire-creativity-flexibility-and-stewardship">As a non-traditional engineer I bring the insight gained through decades of experience across multiple industries. As a leader I strive to inspire creativity, flexibility and stewardship.</h4>
 
 <figure class="fourth">
-  <p><img src="http://localhost:4000/images/logopic/PSU_logo.png" style="width: 210px" />
+  <p><img src="http://localhost:4000/images/logopic/Logo_PSU.jpg" style="width: 210px" />
   <img src="http://localhost:4000/images/logopic/Logo_Nanofront.jpg" style="width: 110px" />
   <img src="http://localhost:4000/images/logopic/Logo_NWO.jpg" style="width: 120px" />
   <img src="http://localhost:4000/images/logopic/Logo_ERC.jpg" style="width: 110px" /></p>
